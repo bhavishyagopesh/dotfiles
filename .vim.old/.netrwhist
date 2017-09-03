@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/bhavishya/Downloads/reviews1'
+let g:netrw_dirhist_2='/home/bhavishya/testing_builds/cpython/Lib/lazy_import'
+let g:netrw_dirhist_3='/home/bhavishya/im2txt_demo'
+let g:netrw_dirhist_4='/home/bhavishya/GSoC/performance/performance/benchmarks'
